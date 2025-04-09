@@ -1,6 +1,7 @@
 # Contatore Interattivo JavaScript - Alessandro Celentano
 
-Un elegante contatore interattivo realizzato con HTML, CSS e JavaScript puro. Questo progetto offre un'interfaccia utente intuitiva con animazioni fluide per un'esperienza d'uso piacevole.
+Un elegante contatore interattivo realizzato con HTML, CSS e JavaScript. 
+Questo progetto offre un'interfaccia utente intuitiva con animazioni fluide per un'esperienza d'uso piacevole.
 
 <img width="500" alt="Schermata 2025-04-07 alle 14 09 37" src="https://github.com/user-attachments/assets/b82fcc0e-971e-40d4-93f1-7f35c89ebbbe" />
 
@@ -39,7 +40,7 @@ contatore-interattivo/
 - **HTML5**: Struttura della pagina
 - **CSS3**: Stili, animazioni e layout responsivo
 - **JavaScript**: Logica del contatore e interattività
-- **Nessuna dipendenza esterna**: Progetto realizzato con tecnologie web standard senza framework o librerie
+- **Nessuna libreria esterna**: Progetto realizzato con tecnologie web standard senza framework o librerie
 
 ## Personalizzazione
 
