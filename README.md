@@ -3,7 +3,7 @@
 
 Un elegante contatore interattivo realizzato con HTML, CSS e JavaScript puro. Questo progetto offre un'interfaccia utente intuitiva con animazioni fluide per un'esperienza d'uso piacevole.
 
-<img width="1211" alt="Schermata 2025-04-07 alle 14 09 37" src="https://github.com/user-attachments/assets/b82fcc0e-971e-40d4-93f1-7f35c89ebbbe" />
+<img width="500" alt="Schermata 2025-04-07 alle 14 09 37" src="https://github.com/user-attachments/assets/b82fcc0e-971e-40d4-93f1-7f35c89ebbbe" />
 
 ## Caratteristiche
 
