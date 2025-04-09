@@ -1,5 +1,4 @@
-# Progetto JavaScript di Alessandro Celentano
-# Contatore Interattivo JavaScript
+# Contatore Interattivo JavaScript - Alessandro Celentano
 
 Un elegante contatore interattivo realizzato con HTML, CSS e JavaScript puro. Questo progetto offre un'interfaccia utente intuitiva con animazioni fluide per un'esperienza d'uso piacevole.
 
